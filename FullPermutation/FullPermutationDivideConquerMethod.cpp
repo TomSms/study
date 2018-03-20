@@ -37,7 +37,6 @@ void FullPermutationDivideConquerMethod::permutation(char *t, int start, int len
 #endif
 		Tools::swap(t, i, start, len);
 	}
-
 }
 
 void FullPermutationDivideConquerMethod::full_permutation(char *t, int len) {
