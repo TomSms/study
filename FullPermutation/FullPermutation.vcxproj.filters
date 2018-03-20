@@ -21,6 +21,15 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="FullPermutationInterface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FullPermutationDivideConquerMethod.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -29,5 +38,19 @@
     <ClCompile Include="FullPermutation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FullPermutationInterface.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FullPermutationDivideConquerMethod.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="全排列算法实现逻辑.md">
+      <Filter>头文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>
