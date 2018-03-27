@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FullPermutation", "FullPerm
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryFind", "BinaryFind\BinaryFind.vcxproj", "{CEB2A550-F649-4CF1-912C-CEB9B83AE6BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting", "Sorting\Sorting.vcxproj", "{E6538A2E-49FF-47DA-A067-3A7479B93D88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{CEB2A550-F649-4CF1-912C-CEB9B83AE6BC}.Release|x64.Build.0 = Release|x64
 		{CEB2A550-F649-4CF1-912C-CEB9B83AE6BC}.Release|x86.ActiveCfg = Release|Win32
 		{CEB2A550-F649-4CF1-912C-CEB9B83AE6BC}.Release|x86.Build.0 = Release|Win32
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Debug|x64.ActiveCfg = Debug|x64
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Debug|x64.Build.0 = Debug|x64
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Debug|x86.Build.0 = Debug|Win32
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Release|x64.ActiveCfg = Release|x64
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Release|x64.Build.0 = Release|x64
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Release|x86.ActiveCfg = Release|Win32
+		{E6538A2E-49FF-47DA-A067-3A7479B93D88}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
