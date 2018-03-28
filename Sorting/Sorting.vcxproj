@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BoubleSort.h" />
     <ClInclude Include="CCSort.h" />
     <ClInclude Include="MergSort.h" />
     <ClInclude Include="QuikSort.h" />
@@ -154,6 +155,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BoubleSort.cpp" />
     <ClCompile Include="CCSort.cpp" />
     <ClCompile Include="MergSort.cpp" />
     <ClCompile Include="QuikSort.cpp" />
